@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "ckeditor4": "^4.17.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "*",
+    "express": "~4.16.1",
+    "express-validator": "*",
+    "http-errors": "~1.6.3",
+    "moment": "*",
+    "mongodb": "*",
+    "monk": "^7.3.4",
+    "morgan": "~1.9.1"
+  }
+}
